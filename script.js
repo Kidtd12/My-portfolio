@@ -117,3 +117,10 @@ function slide(direction) {
 setInterval(() => {
     slide(1);
 }, 3000);
+
+
+
+
+
+
+
