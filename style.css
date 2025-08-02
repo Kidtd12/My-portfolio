@@ -59,7 +59,8 @@ nav {
     color: #fff;
     text-decoration: none;
     font-weight: 500;
-    transition: 0.3s;
+    transition: 0.3
+        4s;
 }
 
 .nav-links a:hover {
@@ -639,6 +640,7 @@ footer {
     cursor: pointer;
     color: #000;
 }
+
 
 
 
