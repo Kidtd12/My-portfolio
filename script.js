@@ -5,7 +5,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         document.querySelector(this.getAttribute('href')).scrollIntoView({
             behavior: 'smooth'
 
-
+behavior: 'smooth'
         
         });
     });
@@ -120,6 +120,7 @@ function slide(direction) {
 setInterval(() => {
     slide(1);
 }, 3000);
+
 
 
 
